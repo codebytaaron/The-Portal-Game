@@ -1,2 +1,11 @@
 # The-Portal-Game
-Simple game about spending one day in the college transfer portal. You make a few choices, deal with messages from coaches and social media noise, and try not to lose your mind. Each decision affects your options and how the day ends. There is no right answer, just tradeoffs. The goal is to finish the day in a good spot, or at least still sane.
+# Status: Open
+
+A tiny terminal game about one day in the NCAA transfer portal.
+You make choices, random stuff happens, and you try to finish the day in a decent spot.
+
+## Run it
+Requires Python 3.10+ (3.8+ usually works too).
+
+```bash
+python -m portal_game.main
