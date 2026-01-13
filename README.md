@@ -1,11 +1,22 @@
-# The-Portal-Game
-# Status: Open
+# The Portal Game
 
-A tiny terminal game about one day in the NCAA transfer portal.
-You make choices, random stuff happens, and you try to finish the day in a decent spot.
+The Portal Game is a Python-based terminal game centered around a decision-driven scenario.
 
-## Run it
-Requires Python 3.10+ (3.8+ usually works too).
+## Overview
+
+The project simulates a short sequence of choices where each decision affects the outcome. The experience is intentionally simple and focuses on tradeoffs rather than optimal paths.
+
+## Usage Notice
+
+This repository is public for visibility and reference only.
+
+Please **do not use, copy, modify, or redistribute this project without contacting me first**.
+
+If you are interested in using this project, extending it, or collaborating, reach out via the link in my bio so I can assist and approve proper usage.
+
+## Run
+
+Requires Python.
 
 ```bash
 python -m portal_game.main
